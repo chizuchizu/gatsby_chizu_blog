@@ -6,7 +6,7 @@
     "dependencies": {
         "@babel/runtime": "7.10.5",
         "bluebird": "3.7.2",
-        "sharp": "0.25.4"
+        "sharp": "0.30.5"
     },
     "devDependencies": {
         "@babel/cli": "7.10.5",
@@ -24,7 +24,7 @@
         "pwa"
     ],
     "resolutions": {
-        "sharp": "0.25.4"
+        "sharp": "0.30.5"
     },
     "license": "MIT",
     "main": "index.js",
